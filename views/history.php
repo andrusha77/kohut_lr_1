@@ -3,8 +3,7 @@
     <h2>Історія бронювань</h2>
 
 
-    <!-- GET-ФІЛЬТР -->
-
+=
     <form method="get" action="/" class="filter">
 
         <label for="filterType">

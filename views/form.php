@@ -45,7 +45,7 @@
 
     <form method="post" action="/">
 
-        <!-- ІМ'Я -->
+        
 
         <div class="form-group">
 
@@ -72,7 +72,6 @@
         </div>
 
 
-        <!-- ТРИВАЛІСТЬ -->
 
         <div class="form-group">
 
@@ -106,7 +105,6 @@
         </div>
 
 
-        <!-- ТИП -->
 
         <div class="form-group">
 
@@ -164,7 +162,6 @@
         </div>
 
 
-        <!-- ДАТА -->
 
         <div class="form-group">
 
@@ -191,7 +188,6 @@
         </div>
 
 
-        <!-- ЗАПИТАННЯ -->
 
         <div class="form-group">
 
