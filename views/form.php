@@ -207,7 +207,7 @@
             ><?= e($old['question']) ?></textarea>
 
             <small>
-                Не менше 10 байтів.
+                Не менше 10 символів.
             </small>
 
             <?php if (isset($errors['question'])): ?>

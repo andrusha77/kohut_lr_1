@@ -23,7 +23,7 @@ function e(mixed $value): string
 // ІНДИВІДУАЛЬНІ ПАРАМЕТРИ
 // -------------------------------------------------
 
-$studentNumber = 1; // !!! ЗАМІНИ НА СВІЙ НОМЕР У ЖУРНАЛІ
+$studentNumber = 6; // !!! ЗАМІНИ НА СВІЙ НОМЕР У ЖУРНАЛІ
 $variantNumber = 6;
 
 $coefficientPercent = 100 + 5 * ($studentNumber % 5);

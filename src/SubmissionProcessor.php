@@ -35,7 +35,7 @@ final class SubmissionProcessor
         if ($old['clientName'] === '') {
             $errors['clientName'] = 'Введіть ім’я клієнта.';
         } elseif (strlen($old['clientName']) > 80) {
-            $errors['clientName'] = 'Ім’я не повинно перевищувати 80 байтів.';
+            $errors['clientName'] = 'Ім’я не повинно перевищувати 80 символів.';
         }
 
         // -------------------------------------------------
